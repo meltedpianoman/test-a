@@ -9,3 +9,4 @@ Some test commits:
 * Test commit 5
 * Test commit 6 (extra)
 * Bug fixA commit
+* bla
